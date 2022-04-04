@@ -26,6 +26,10 @@ ipch
 *.VC.db
 *.VC.VC.opendb
 
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
+
 ## Commonly used CMake directories
 /build*/
 
